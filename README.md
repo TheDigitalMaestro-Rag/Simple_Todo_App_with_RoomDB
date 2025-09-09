@@ -17,7 +17,7 @@ This app lets users create, update, delete, and mark tasks as complete while sto
 
 ## 📸 Screenshots
 | Main Screen |
-| ![Main](doc/Screenshot_20250909_162247.png) |
+| ![Main](doc/Screenshot_20250909_165129.png) |
 
 ---
 
